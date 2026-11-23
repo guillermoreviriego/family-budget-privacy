@@ -39,4 +39,5 @@ supresión de sus datos.
 
 ## Contacto
 
-Para cualquier cuestión sobre privacidad: reviriego.technology@gmail.com
+Para cualquier cuestión sobre privacidad, contacta a través de la página del
+proyecto en GitHub.

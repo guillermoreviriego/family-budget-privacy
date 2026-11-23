@@ -24,4 +24,4 @@ responsable de la veracidad de los datos y del uso que haga de los resultados.
 
 ## Contacto
 
-reviriego.technology@gmail.com
+A través de la página del proyecto en GitHub.
